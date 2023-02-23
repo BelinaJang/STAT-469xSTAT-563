@@ -1,13 +1,13 @@
 # STAT-469xSTAT-563
 Machine Learning
 
-## Assignment 1: Drug Resistance Prediction Models
+## Assignment 1: Drug Resistance Prediction Models 1
 uses and compare Logistic Regression, LDA and KNN(K-Nearest Neighbors)
 
-## Assignment 2: Drug Resistance Prediction Models
+## Assignment 2: Drug Resistance Prediction Models 2
 uses and compare Classification tree and Elastic net with previous models
 
-## Assignment 3: Drug Resistance Prediction Models
+## Assignment 3: Drug Resistance Prediction Models 3
 uses and compare MTPS(Multi-Task Prediction using Stacking Algorithms) and random forest with previous models
 
 ## Assignment 4: Gene Expression Heatmap
