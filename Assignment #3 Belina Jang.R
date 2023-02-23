@@ -5,6 +5,7 @@
 #  I used the sample answer of assignment 1(Doug Skye's code) posted on Brightspace
 #  added two new models and made few changes to create the report
 #  Below are mostly additions I made only (added parts marked as "-Belina added", minor changes such as changes in numbers of lines, abline and etc are NOT marked)
+#  Please check Assignment1-2(usingloop).R to see the overall setup
 
 cat("MTPS Experiment:")
 for (e in 1:nexperiments) {
