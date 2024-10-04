@@ -1,6 +1,8 @@
 # STAT-469xSTAT-563
 Machine Learning
 
+## [Summary for Drug Resistance Prediction Models](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Stat469%20-%20drug%20resistance%20-%20summary.pdf)
+
 ## Assignment 1: [Drug Resistance Prediction Models 1](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Assignment1-2(usingloop).R)
 uses and compare Logistic Regression, LDA and KNN(K-Nearest Neighbors)
 
