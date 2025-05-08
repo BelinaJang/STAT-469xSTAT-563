@@ -14,4 +14,4 @@ uses and compare MTPS(Multi-Task Prediction using Stacking Algorithms) and rando
 [(Report for A1-3)](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/reports/Stat469-A3-report.pdf)
 
 ## Assignment 4: [Gene Expression Heatmap](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/scripts/Assignment%20%234%20Belina%20Jang.R)
-Generating gene heatmaps using clustering methods (hierarchical clustering k-means algorithm [(Report)](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Assignment%234%20Results.pdf)
+Generating gene heatmaps using clustering methods (hierarchical clustering k-means algorithm [(Report)](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/reports/Gene_heatmap_results.pdf)
