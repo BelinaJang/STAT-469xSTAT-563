@@ -6,10 +6,10 @@ Coursework from Machine Learning class at the University of Victoria
 ## Assignment 1: [Drug Resistance Prediction Models 1](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Assignment1-2(usingloop).R)
 uses and compare Logistic Regression, LDA and KNN(K-Nearest Neighbors)
 
-## Assignment 2: [Drug Resistance Prediction Models 2](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Assignment%20%232%20Belina%20Jang.R)
+## Assignment 2: [Drug Resistance Prediction Models 2](scripts/Assignment #2 Belina Jang.R)
 uses and compare Classification tree and Elastic net with previous models
 
-## Assignment 3: [Drug Resistance Prediction Models 3](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/Assignment%20%233%20Belina%20Jang.R)
+## Assignment 3: [Drug Resistance Prediction Models 3](scripts/Assignment #3 Belina Jang.R)
 uses and compare MTPS(Multi-Task Prediction using Stacking Algorithms) and random forest with previous models
 [(Report for A1-3)](https://github.com/BelinaJang/STAT-469xSTAT-563/blob/main/reports/Stat469-A3-report.pdf)
 
